@@ -93,7 +93,7 @@ $imgSize: 30px;
           cursor: pointer;
           text-decoration: none;
           @include rem-font-size(14px);
-          @include rem-fallback(padding, 8px);
+          @include rem-fallback(padding, 10px);
         }
       }
     }
